@@ -1,10 +1,8 @@
-﻿# generalis
+# Generali's Bar & Kitchen
 
-Generali's Bar & Kitchen â€“ Kilifi
+<img src="./assets/header.svg" width="100%" alt="Generali's Bar & Kitchen" />
 
-## Stack
-
-react Â· vite Â· typescript
+Kilifi dining and nightlife.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
